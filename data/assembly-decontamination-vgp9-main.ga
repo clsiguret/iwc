@@ -123,7 +123,7 @@
         },
         "3": {
             "annotation": "",
-            "content_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_sed_tool/9.5+galaxy0",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_sed_tool/9.5+galaxy2",
             "errors": null,
             "id": 3,
             "input_connections": {
@@ -159,15 +159,15 @@
                     "output_name": "output"
                 }
             },
-            "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_sed_tool/9.5+galaxy0",
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_sed_tool/9.5+galaxy2",
             "tool_shed_repository": {
-                "changeset_revision": "6073bb457ec0",
+                "changeset_revision": "c41d78ae5fee",
                 "name": "text_processing",
                 "owner": "bgruening",
                 "tool_shed": "toolshed.g2.bx.psu.edu"
             },
             "tool_state": "{\"adv_opts\": {\"adv_opts_selector\": \"basic\", \"__current_case__\": 0}, \"code\": \"/^>/!y/atcgn/NNNNN/\", \"infile\": {\"__class__\": \"ConnectedValue\"}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
-            "tool_version": "9.5+galaxy0",
+            "tool_version": "9.5+galaxy2",
             "type": "tool",
             "uuid": "5089350b-c1a9-498a-9786-9864d484f77a",
             "when": null,
@@ -218,7 +218,7 @@
             },
             "tool_id": "toolshed.g2.bx.psu.edu/repos/iuc/kraken2/kraken2/2.1.3+galaxy1",
             "tool_shed_repository": {
-                "changeset_revision": "cdee7158adf3",
+                "changeset_revision": "241a78eb2935",
                 "name": "kraken2",
                 "owner": "iuc",
                 "tool_shed": "toolshed.g2.bx.psu.edu"
@@ -456,7 +456,7 @@
         },
         "10": {
             "annotation": "",
-            "content_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cat/9.5+galaxy0",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cat/9.5+galaxy2",
             "errors": null,
             "id": 10,
             "input_connections": {
@@ -485,15 +485,15 @@
                 "top": 423.9453125
             },
             "post_job_actions": {},
-            "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cat/9.5+galaxy0",
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/text_processing/tp_cat/9.5+galaxy2",
             "tool_shed_repository": {
-                "changeset_revision": "6073bb457ec0",
+                "changeset_revision": "c41d78ae5fee",
                 "name": "text_processing",
                 "owner": "bgruening",
                 "tool_shed": "toolshed.g2.bx.psu.edu"
             },
             "tool_state": "{\"inputs\": {\"__class__\": \"ConnectedValue\"}, \"queries\": [], \"__page__\": null, \"__rerun_remap_job_id__\": null}",
-            "tool_version": "9.5+galaxy0",
+            "tool_version": "9.5+galaxy2",
             "type": "tool",
             "uuid": "5b7e33a0-0ec4-4539-bb91-0c862597df69",
             "when": null,
@@ -507,7 +507,7 @@
         },
         "11": {
             "annotation": "",
-            "content_id": "toolshed.g2.bx.psu.edu/repos/bgruening/gfastats/gfastats/1.3.10+galaxy0",
+            "content_id": "toolshed.g2.bx.psu.edu/repos/bgruening/gfastats/gfastats/1.3.11+galaxy0",
             "errors": null,
             "id": 11,
             "input_connections": {
@@ -534,15 +534,15 @@
                 "top": 798.078125
             },
             "post_job_actions": {},
-            "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/gfastats/gfastats/1.3.10+galaxy0",
+            "tool_id": "toolshed.g2.bx.psu.edu/repos/bgruening/gfastats/gfastats/1.3.11+galaxy0",
             "tool_shed_repository": {
-                "changeset_revision": "50b6ec4074f4",
+                "changeset_revision": "59150c883ed5",
                 "name": "gfastats",
                 "owner": "bgruening",
                 "tool_shed": "toolshed.g2.bx.psu.edu"
             },
             "tool_state": "{\"input_file\": {\"__class__\": \"ConnectedValue\"}, \"mode_condition\": {\"selector\": \"manipulation\", \"__current_case__\": 0, \"swiss_army_knife\": {\"__class__\": \"ConnectedValue\"}, \"output_condition\": {\"out_format\": \"fasta.gz\", \"__current_case__\": 1, \"line_length\": null}, \"discover_paths\": false, \"sort\": \"\", \"remove_terminal_gaps\": false, \"homopolymer_compress\": null}, \"target_condition\": {\"target_option\": \"true\", \"__current_case__\": 1, \"target_sequence\": \"\", \"include_bed\": {\"__class__\": \"ConnectedValue\"}, \"exclude_bed\": {\"__class__\": \"ConnectedValue\"}}, \"__page__\": null, \"__rerun_remap_job_id__\": null}",
-            "tool_version": "1.3.10+galaxy0",
+            "tool_version": "1.3.11+galaxy0",
             "type": "tool",
             "uuid": "5113c945-c811-4cbc-81ac-20d1d80e97ed",
             "when": null,
@@ -558,7 +558,7 @@
     "tags": [
         "VGP_curated"
     ],
-    "uuid": "19486005-558a-49cc-a04f-e5b51cc7affc",
+    "uuid": "6e559337-d671-42ee-a021-232681d78f14",
     "version": 1,
-    "release": "0.5"
+    "release": "0.7"
 }
